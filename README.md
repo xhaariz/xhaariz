@@ -47,8 +47,7 @@ Actualmente soy estudiante de Técnico Superior en Programación y aspiro a cont
 
 <h2>Spotify Playing</h2> 
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ba4g5qandmrjsnwbjnnkclmhea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=fd3f91&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ba4g5qandmrjsnwbjnnkclmhea&redirect=true) <img src="https://media1.tenor.com/m/YovRlI1mFJsAAAAd/cat-headphones.gif" width="150px">&nbsp; 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ba4g5qandmrjsnwbjnnkclmhea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=fd3f91&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ba4g5qandmrjsnwbjnnkclmhea&redirect=true)     <img src="https://media1.tenor.com/m/YovRlI1mFJsAAAAd/cat-headphones.gif" width="150px">&nbsp; 
 
 <h2>Estadísticas de GitHub </h2>
 
