@@ -45,8 +45,12 @@ Actualmente soy estudiante de Técnico Superior en Programación y aspiro a cont
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+<h2>Spotify Playing</h2> 
 
-<h2>Estadísticas de GitHub</h2>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ba4g5qandmrjsnwbjnnkclmhea&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=true&bar_color=fd3f91&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ba4g5qandmrjsnwbjnnkclmhea&redirect=true) <img src="https://media1.tenor.com/m/YovRlI1mFJsAAAAd/cat-headphones.gif" width="150px">&nbsp; 
+
+<h2>Estadísticas de GitHub </h2>
 
   ![](https://github-readme-stats.vercel.app/api?username=xhaariz&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xhaariz&theme=dracula&hide_border=false)<br/>
