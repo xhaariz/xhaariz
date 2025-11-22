@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Solis, Soy Mayra <img height="50" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif"></h1>
+<h1 align="center">Holis, Soy Mayra <img height="50" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif"></h1>
 <img align="right" width=250px alt="Unicorn" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAC/cat-computer.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
 
 Desarrolladora Full Stack Python, con experiencia en JavaScript, HTML, CSS, Flask y control de versiones con Git, además de conocimientos en bases de datos MySQL.
 
