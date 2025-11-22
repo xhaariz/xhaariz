@@ -26,7 +26,7 @@ Actualmente soy estudiante de Técnico Superior en Programación y aspiro a cont
 * <img src="https://media.tenor.com/Bn8sxwFw-F4AAAAj/catjam-cat.gif" width="30px">&nbsp; Fuera del ámbito tecnológico, me gusta dibujar, escuchar música, jugar videojuegos y pasar tiempo con mis mascotas (2 gatitos y 6 perritos).
 * <img src="https://media.tenor.com/sUz9HU2JmzMAAAAi/cinnamoroll.gif" width="40px">&nbsp; Puedes encontrar algunos de mis dibujos en Pinterest como <a href="https://pin.it/ATwAhP9ua"><b>xhariiz</b></a>
 
-* <img src="https://media.tenor.com/aYt2QQwrcdUAAAAi/kirby.gif" width="40px">&nbsp; Puedes contactarme en <a href="mayyxhh@gmail.com"><b>mayyxhh@gmail.com</b></a>
+* <img src="https://media.tenor.com/aYt2QQwrcdUAAAAi/kirby.gif" width="40px">&nbsp; Puedes contactarme en  <a href="mayyxhh@gmail.com"><b>mayyxhh@gmail.com</b></a>
 
 <h2>Mis habilidades incluyen</h2>
 
