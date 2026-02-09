@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
-Desarrolladora Full Stack Python, con experiencia en JavaScript, HTML, CSS, Flask y control de versiones con Git, además de conocimientos en bases de datos MySQL.
+Desarrolladora Full Stack Python, con experiencia en JavaScript, HTML, CSS, Flask, PHP y control de versiones con Git, además de conocimientos en bases de datos MySQL.
 
 
 Actualmente soy estudiante de Técnico Superior en Programación y aspiro a continuar mi formación hacia la Ingeniería en Informática.
